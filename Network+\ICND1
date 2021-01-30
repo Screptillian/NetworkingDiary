@@ -1,0 +1,50 @@
+I took my Network+ a few months after I passed my A+ exam. (If you want to read about my A+ journey go read the file at the root of this repository)
+
+My Network+ study habits were much better but a very unique situation nonetheless. When I was studying for my Network+ I was also studying for my ICND1 before that got retired
+~2 years later before I got a chance to actually go and get my CCNA.
+
+When my instructor gave me my ICND1 coursework to dig through on netacad I was foaming at the mouth because a.) I had heard a lot of cisco but didn't have any actual education on it and was a broke high school kid
+and b.) I knew (or so I thought) that Cisco was used everywhere. Cisco is still widely used and it still dominates the market but there are so many other things that Cisco offers now vs.
+what it offered then. Network+ and CCNA align very closely with eachother and if you can pass your CCNA you can most definitely pass the Network+ IF you don't limit yourself
+to Cisco technologies and even then, you have a good chance of passing.
+
+That being said, I didn't enjoy the netacad material. It was a good resource but I felt like it didn't go far enough to make me understand everything that I was reading.
+The labs where you have to type in the commands to solve a certain scenario without a topology available feel necessary now that I actually work in the industry.
+
+But because it didn't go far enough into detail than I was looking for, I did some dual-enrollment shenanigans with my high school and took a Cisco 101 class that was directly
+geared towards the ICND1. They used the TestOut curriculum for it and I got my Tech center instructor to exchange my A+ curriculum that I didn't need anymore for the
+Cisco curriculum on TestOut. That being said, I didn't particularly use TestOut for it's labs but it's practice questions that come through it in every curriculum they have.
+
+I passed my Network+ in May of 2018 (I took it immediately after I took and passed my ICND1 (same day and everything)) my senior year of high school.
+
+Takeaways from the Network+:
+  
+  - There aren't many takeways from the exam because 90% of my questions were about fiber connectors which I had memorized because I was always trying to improve the Cisco
+  Packet Tracer Labs that I was studying out of. But the Network+ is still widely recognized and/or accepted in the field and if you're doing a Cisco exam you can most definitely pass
+  it and essentially knock 2 birds out with 1 stone. I wouldn't necessarily advise taking them both in the same day.
+  
+  
+Takeways from the ICND1:
+  
+  - Cisco exams are harder than COMPTIA exams by a million years and rightfully so. You have to know a.) how the protocols work and b.) how to troubleshoot from the Cisco
+  CLI, and c.) You have to know subnetting like the back of your hand (If you're not able to figure out gateways, ranges, and masks within 30 seconds you're not ready).
+  
+  - You don't have to know specifics about routing but you should know how to set up router on a stick topologies, how to read a routing table (what the letters and numbers at the beginning
+  and end of the lines in the table mean, and this is where your subnetting comes in because unless it's static routing the tables are distributed using subnet masks and address headers).
+  
+Takeaways for the industry:
+
+Networking is a very niche section of IT now with the inclusion of cloud technologies, web interfaces, and software defined networks. But that doesn't mean that the
+principles have all left. Showing you know the basics of networking AND some vendor specific knowledge accompanied with a help-desk position at an ISP will go a long way
+in understanding how the internet works, the flow of network traffic in various topologies, and as long as you continue growing your knowledge you won't get left behind.
+
+
+
+As of writing this 1/30/2021, the industry is moving fast towards cloud-based infrastructure. But with cloud-based infrastructure you also have to have infrastructure at the edge
+to really make it work how you want it. So learning best practices in the field, identifying network topologies and their failures//benefits, some troubleshooting, and some new ways to look at
+environments will go a long way. So be sure that when you get a certification to put it to use and grow with it if you want to go further in that section of IT.
+
+
+
+Knowing how a network generally functions is also important for a help-desk position because you need to know when to escalate if it's a network issue or if it can be
+deduced specifically to the device that you're troubleshooting.
